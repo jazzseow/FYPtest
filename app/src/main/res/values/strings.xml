@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FYPTest</string>
+    <string name="add_image">Add Image</string>
+    <string name="permission_camera_rationale">Camera permission is needed to show the camera preview.</string>
+    <string name="ok">OK</string>
+    <string name="permision_available_camera">Camera Permission has been granted. Preview can now be opened.</string>
+    <string name="permissions_not_granted">Permissions were not granted.</string>
+    <string name="dialog_wait">Please wait</string>
+    <string name="dialog_object_description">Fast RCNN</string>
+</resources>
